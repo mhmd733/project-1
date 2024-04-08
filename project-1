@@ -1,0 +1,6 @@
+#freestyle
+import random
+
+m=random.randit(1,100)
+
+print(m)
